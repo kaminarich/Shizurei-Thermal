@@ -1,0 +1,2 @@
+- Add auto Disable Thermal when Performance mode/Charging 
+- Used Rust Native Binary for faster and light process
