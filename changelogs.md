@@ -1,2 +1,3 @@
-- Add auto Disable Thermal when Performance mode/Charging 
-- Used Rust Native Binary & inotify for faster and light process
+- Add Support Snapdragon - Mediatek
+- Disable thermal engine and thermal hal
+- more Heat more Gacor
