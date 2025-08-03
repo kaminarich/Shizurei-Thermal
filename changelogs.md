@@ -1,3 +1,5 @@
 - Add Support Snapdragon - Mediatek
 - Disable thermal engine and thermal hal
+- fix typo
+- refactor logic
 - more Heat more Gacor
