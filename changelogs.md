@@ -1,3 +1,4 @@
+- Fix Game Mode
 - Add Support Snapdragon - Mediatek
 - Disable thermal engine and thermal hal
 - fix typo
