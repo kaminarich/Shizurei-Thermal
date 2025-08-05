@@ -1,3 +1,4 @@
+- Integrated Autocut charging on 98%
 - Fix Game Mode
 - add action button
 - Add Support Snapdragon - Mediatek
