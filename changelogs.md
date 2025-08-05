@@ -1,6 +1,6 @@
 - Integrated Autocut charging on 98%
 - Fix Game Mode
-- add action button
+- add action button to check thermal status
 - Add Support Snapdragon - Mediatek
 - Disable thermal engine and thermal hal
 - fix typo
